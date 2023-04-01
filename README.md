@@ -11,13 +11,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MartinKonecny100128860&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false)<br/>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MartinKonecny100128860&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### 😂 
-[<img src="[https://rm.up.railway.app](https://pbs.twimg.com/media/FPsSNMpX0Ac_rfe.jpg:large)/" width="512px"/>](https://pbs.twimg.com/media/FPsSNMpX0Ac_rfe.jpg:large)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MartinKonecny100128860&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
