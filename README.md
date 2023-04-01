@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MartinKonecny100128860&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app](https://pbs.twimg.com/media/FPsSNMpX0Ac_rfe.jpg:large)/" width="512px"/>
+[<img src="[https://rm.up.railway.app](https://pbs.twimg.com/media/FPsSNMpX0Ac_rfe.jpg:large)/" width="512px"/>](https://pbs.twimg.com/media/FPsSNMpX0Ac_rfe.jpg:large)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MartinKonecny100128860&icon=6&color=6)](https://visitcount.itsvg.in)
