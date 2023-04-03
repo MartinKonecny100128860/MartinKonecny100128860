@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 On this GitHub I will be showcasing my University Assignments & Personal Work<br>🌱 I’m currently learning Computing at Burnley University - BSc Hons in Computing.<br>⚡ Fun fact I like collecting Pokémon Cards, I enjoy watching some anime shows.<br>💬 Add me on MyAnimeList Profile: (https://myanimelist.net/profile/GhostMSx)
+🔭 On this GitHub I will be showcasing my University Assignments & Personal Work<br>🌱 I’m currently learning Computing at Burnley University - BSc Hons in Computing.<br>⚡ Fun fact I like collecting Pokémon Cards, I enjoy watching some anime shows.<br>💬 Add me on MyAnimeList Profile: https://myanimelist.net/profile/GhostMSx
 
 [![](https://visitcount.itsvg.in/api?id=MartinKonecny100128860&icon=6&color=6)](https://visitcount.itsvg.in)
 
