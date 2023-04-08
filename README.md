@@ -1,4 +1,4 @@
-![Header](./[https://images8.alphacoders.com/559/559128.jpg])
+![Header](./https://images8.alphacoders.com/559/559128.jpg)
 # 💫 About Me:
 🔭 On this GitHub I will be showcasing my University Assignments & Personal Work<br>🌱 I’m currently learning Computing at Burnley University - BSc Hons in Computing.<br>⚡ Fun fact I like collecting Pokémon Cards, I enjoy watching some anime shows.
 
