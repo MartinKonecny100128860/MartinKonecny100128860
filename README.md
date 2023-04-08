@@ -1,4 +1,6 @@
 <img src="https://github.com/MartinKonecny100128860/MartinKonecny100128860/blob/main/1033678-text-blue-code-programming-computer-texture-knowledge-programming-language-Doom-game-logic-design-line-darkness-number-screenshot-computer-wallpaper-font.jpg">
+
+
 # 💫 About Me:
 🔭 On this GitHub I will be showcasing my University Assignments & Personal Work<br>🌱 I’m currently learning Computing at Burnley University - BSc Hons in Computing.<br>⚡ Fun fact I like collecting Pokémon Cards, I enjoy watching some anime shows.
 
