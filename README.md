@@ -1,4 +1,4 @@
-<img src="https://github.com/MartinKonecny100128860/MartinKonecny100128860/blob/main/lll.PNG" width="1250" height="300">
+<img src="https://github.com/MartinKonecny100128860/MartinKonecny100128860/blob/main/GithubHeader.png">
 
 
 # 💫 About Me:
