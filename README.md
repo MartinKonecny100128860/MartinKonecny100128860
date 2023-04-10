@@ -15,6 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MartinKonecny100128860&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false)<br/>
 
 <p align="center">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=MartinKonecny100128860&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)" align = "center"/>
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false)" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MartinKonecny100128860&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align = "center"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false" align = "center"/>
 </p>
