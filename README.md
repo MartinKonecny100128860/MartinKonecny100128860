@@ -1,4 +1,4 @@
-<img src="https://github.com/MartinKonecny100128860/MartinKonecny100128860/blob/main/1033678-text-blue-code-programming-computer-texture-knowledge-programming-language-Doom-game-logic-design-line-darkness-number-screenshot-computer-wallpaper-font.jpg" width="400" height="100">
+<img src="https://github.com/MartinKonecny100128860/MartinKonecny100128860/blob/main/1033678-text-blue-code-programming-computer-texture-knowledge-programming-language-Doom-game-logic-design-line-darkness-number-screenshot-computer-wallpaper-font.jpg" width="800" height="300">
 
 
 # 💫 About Me:
