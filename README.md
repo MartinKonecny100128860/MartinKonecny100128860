@@ -23,6 +23,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 # 📊 GitHub Stats:
 <p align="center">
-<img height="171em" src="https://github-readme-stats.vercel.app/api?username=MartinKonecny100128860&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" align = "center"/>
-<img height="171em" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false" align = "center"/>
+<img height="171em" src="https://streak-stats.demolab.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false"/>
+  <img height="171em" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinKonecny100128860&theme=tokyonight&hide_border=false" align = "center"/>
 </p>
